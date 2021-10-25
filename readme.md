@@ -1,28 +1,8 @@
-# This is a large heading
+# Nick Kavanagh
 
-## This is a smaller heading
+## Intro
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
-
-- This is
-- an unordered
-- list
-
-1. This is
-2. an ordered
-3. list
-
-Here is `some code` in the middle of a sentence.
-
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+100% disabled veteran teaching myself coding/electronics.
+Currently studying bash, regexp, python, micropython with esp33/8266 boards.
+I use linux distributions for all my computers and probably know exactly enough to be stupidly dangerous to my systems. 
+If you use one of my programs, check it carefully.
